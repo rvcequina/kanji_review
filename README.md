@@ -35,3 +35,9 @@ src/
 - Wrong answers: -1 level (-2 if 2+ mistakes or item was Master+).
 - Grammar `correctKana` accepts alternatives separated by `|`; kanji readings by `、`.
 - `_previous_partial/` holds files that were already in this folder from an earlier attempt; they are not used.
+
+## Deploy to GitHub Pages
+1. Push to a GitHub repo's `main` branch.
+2. Repo → Settings → Pages → Source: **GitHub Actions**.
+3. `.github/workflows/deploy.yml` builds and publishes on every push.
+Progress is stored in each visitor's browser (localStorage), so there is no backend to host.
