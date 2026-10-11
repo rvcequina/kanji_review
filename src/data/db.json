@@ -1,0 +1,235 @@
+{
+  "items": [
+    { "id": "n5-k-01", "level": "N5", "type": "kanji", "item": "日", "reading": "にち、ひ", "meanings": ["day", "sun"], "components": ["日"],
+      "mnemonic": "It's a window with the sun shining through it. A new DAY begins every time the sun peeks in. Say 'Nietzsche' (にち) was up all day.",
+      "examples": [{ "ja": "今日は日曜日です。", "furigana": "きょうはにちようびです。", "en": "Today is Sunday." }] },
+    { "id": "n5-k-02", "level": "N5", "type": "kanji", "item": "月", "reading": "げつ、つき", "meanings": ["month", "moon"], "components": ["月"],
+      "mnemonic": "A crescent MOON with two lines of clouds crossing it. One moon cycle = one MONTH. A 'gets' (げつ) glow at night.",
+      "examples": [{ "ja": "月がきれいですね。", "furigana": "つきがきれいですね。", "en": "The moon is beautiful, isn't it?" }] },
+    { "id": "n5-k-03", "level": "N5", "type": "kanji", "item": "水", "reading": "すい、みず", "meanings": ["water"], "components": ["水"],
+      "mnemonic": "A central stream with droplets splashing on both sides. Imagine a 'sui'-cidal (すい) fish begging for WATER.",
+      "examples": [{ "ja": "水をください。", "furigana": "みずをください。", "en": "Water, please." }] },
+    { "id": "n5-k-04", "level": "N5", "type": "kanji", "item": "山", "reading": "さん、やま", "meanings": ["mountain"], "components": ["山"],
+      "mnemonic": "Three peaks, the tallest in the middle. A MOUNTAIN named San (さん) towers over the valley.",
+      "examples": [{ "ja": "富士山は高いです。", "furigana": "ふじさんはたかいです。", "en": "Mt. Fuji is tall." }] },
+    { "id": "n5-k-05", "level": "N5", "type": "kanji", "item": "人", "reading": "じん、にん、ひと", "meanings": ["person", "people"], "components": ["人"],
+      "mnemonic": "A PERSON walking on two legs. 'Jin' (じん) is a person who drinks gin.",
+      "examples": [{ "ja": "あの人は先生です。", "furigana": "あのひとはせんせいです。", "en": "That person is a teacher." }] },
+    { "id": "n5-k-06", "level": "N5", "type": "kanji", "item": "食", "reading": "しょく、た", "meanings": ["eat", "food"], "components": ["人", "良"],
+      "mnemonic": "A PERSON (人) sits under a roof with a GOOD (良) meal. When food is good, you say 'sho-ku!' (しょく) and EAT.",
+      "examples": [{ "ja": "朝食を食べます。", "furigana": "ちょうしょくをたべます。", "en": "I eat breakfast." }] },
+
+    { "id": "n5-v-01", "level": "N5", "type": "vocabulary", "item": "食べる", "reading": "たべる", "meanings": ["to eat", "eat"], "components": ["食"],
+      "mnemonic": "Think 'Tabby cat' (た-べる) loves to EAT. The kanji 食 means eat; the okurigana べる makes it a verb.",
+      "examples": [{ "ja": "私はごはんを食べます。", "furigana": "わたしはごはんをたべます。", "en": "I eat rice." }] },
+    { "id": "n5-v-02", "level": "N5", "type": "vocabulary", "item": "飲む", "reading": "のむ", "meanings": ["to drink", "drink"], "components": ["食", "欠"],
+      "mnemonic": "A NOMad (のむ) in the desert needs to DRINK. The 食 radical on the left reminds you it's about consuming.",
+      "examples": [{ "ja": "水を飲みます。", "furigana": "みずをのみます。", "en": "I drink water." }] },
+    { "id": "n5-v-03", "level": "N5", "type": "vocabulary", "item": "学校", "reading": "がっこう", "meanings": ["school"], "components": ["学", "校"],
+      "mnemonic": "Gachos (がっこう) – imagine kids fighting over a 'gotcha' toy at SCHOOL. 学 = study, 校 = school building.",
+      "examples": [{ "ja": "学校へ行きます。", "furigana": "がっこうへいきます。", "en": "I go to school." }] },
+    { "id": "n5-v-04", "level": "N5", "type": "vocabulary", "item": "先生", "reading": "せんせい", "meanings": ["teacher", "instructor"], "components": ["先", "生"],
+      "mnemonic": "A TEACHER is someone who was born (生) before (先) you. Sensei = 'sen-say': the one who says what's up first.",
+      "examples": [{ "ja": "田中先生は優しいです。", "furigana": "たなかせんせいはやさしいです。", "en": "Teacher Tanaka is kind." }] },
+    { "id": "n5-v-05", "level": "N5", "type": "vocabulary", "item": "大きい", "reading": "おおきい", "meanings": ["big", "large"], "components": ["大"],
+      "mnemonic": "Oh-oh, key! (おおきい) – a gigantic key so BIG it needs two hands. 大 looks like a person stretching their arms wide.",
+      "examples": [{ "ja": "大きい犬がいます。", "furigana": "おおきいいぬがいます。", "en": "There is a big dog." }] },
+    { "id": "n5-v-06", "level": "N5", "type": "vocabulary", "item": "友達", "reading": "ともだち", "meanings": ["friend", "friends"], "components": ["友", "達"],
+      "mnemonic": "Tom-o-dachi: your FRIEND Tom and his buddy Dachi hold hands (友 looks like two hands joining).",
+      "examples": [{ "ja": "友達と遊びます。", "furigana": "ともだちとあそびます。", "en": "I play with my friend." }] },
+    { "id": "n5-v-07", "level": "N5", "type": "vocabulary", "item": "駅", "reading": "えき", "meanings": ["station", "train station"], "components": ["馬", "尺"],
+      "mnemonic": "At the old STATION, horses (馬) were swapped. Say 'Eh? Key?' (えき) – 'Eh? Where's my ticket key?' at the STATION.",
+      "examples": [{ "ja": "駅はどこですか。", "furigana": "えきはどこですか。", "en": "Where is the station?" }] },
+
+    { "id": "n4-k-01", "level": "N4", "type": "kanji", "item": "病", "reading": "びょう、やまい", "meanings": ["illness", "sick"], "components": ["疒", "丙"],
+      "mnemonic": "A person lying in bed (疒) with a fever. 'Byo-' (びょう) – a bee-yo-yo stings you and you get ILL.",
+      "examples": [{ "ja": "病気で休みます。", "furigana": "びょうきでやすみます。", "en": "I'm off sick." }] },
+    { "id": "n4-k-02", "level": "N4", "type": "kanji", "item": "院", "reading": "いん", "meanings": ["institution", "temple"], "components": ["阝", "完"],
+      "mnemonic": "A hill (阝) with a perfect (完) building on it: an INSTITUTION. 'In' (いん) – you go IN.",
+      "examples": [{ "ja": "病院に行きます。", "furigana": "びょういんにいきます。", "en": "I go to the hospital." }] },
+    { "id": "n4-k-03", "level": "N4", "type": "kanji", "item": "運", "reading": "うん、はこ", "meanings": ["carry", "luck", "transport"], "components": ["辶", "軍"],
+      "mnemonic": "An army (軍) on the move (辶) CARRIES supplies. 'Oon' (うん) – a lucky 'oon-der' truck delivers.",
+      "examples": [{ "ja": "荷物を運びます。", "furigana": "にもつをはこびます。", "en": "I carry the luggage." }] },
+    { "id": "n4-k-04", "level": "N4", "type": "kanji", "item": "動", "reading": "どう、うご", "meanings": ["move", "motion"], "components": ["重", "力"],
+      "mnemonic": "You need power (力) to move something heavy (重). 'Doh!' (どう) – you drop it as you MOVE it.",
+      "examples": [{ "ja": "車が動きます。", "furigana": "くるまがうごきます。", "en": "The car moves." }] },
+
+    { "id": "n4-v-01", "level": "N4", "type": "vocabulary", "item": "病院", "reading": "びょういん", "meanings": ["hospital"], "components": ["病", "院"],
+      "mnemonic": "病 (illness) + 院 (institution) = an institution for the ill: a HOSPITAL.",
+      "examples": [{ "ja": "病院で働いています。", "furigana": "びょういんではたらいています。", "en": "I work at a hospital." }] },
+    { "id": "n4-v-02", "level": "N4", "type": "vocabulary", "item": "運動", "reading": "うんどう", "meanings": ["exercise", "movement", "sports"], "components": ["運", "動"],
+      "mnemonic": "運 (carry) + 動 (move) – carrying and moving your body: EXERCISE. 'Oon-doh!' – a workout grunt.",
+      "examples": [{ "ja": "毎朝運動します。", "furigana": "まいあさうんどうします。", "en": "I exercise every morning." }] },
+    { "id": "n4-v-03", "level": "N4", "type": "vocabulary", "item": "約束", "reading": "やくそく", "meanings": ["promise", "appointment"], "components": ["約", "束"],
+      "mnemonic": "'Yaku-soku' – a yak that's SO cute promised to be tied (束 = bundle) to you. A PROMISE binds like a bundle.",
+      "examples": [{ "ja": "友達と約束があります。", "furigana": "ともだちとやくそくがあります。", "en": "I have plans with a friend." }] },
+    { "id": "n4-v-04", "level": "N4", "type": "vocabulary", "item": "準備", "reading": "じゅんび", "meanings": ["preparation", "preparations", "getting ready"], "components": ["準", "備"],
+      "mnemonic": "A 'June bee' (じゅんび) prepares honey all spring – that's PREPARATION. 備 = equip.",
+      "examples": [{ "ja": "旅行の準備をします。", "furigana": "りょこうのじゅんびをします。", "en": "I prepare for the trip." }] },
+
+    { "id": "n3-k-01", "level": "N3", "type": "kanji", "item": "経", "reading": "けい、へ", "meanings": ["pass through", "longitude", "sutra"], "components": ["糸", "圣"],
+      "mnemonic": "Threads (糸) pass through the loom, year after year. A 'kay' (けい) thread PASSES THROUGH.",
+      "examples": [{ "ja": "時間が経ちました。", "furigana": "じかんがたちました。", "en": "Time has passed." }] },
+    { "id": "n3-k-02", "level": "N3", "type": "kanji", "item": "済", "reading": "さい、す", "meanings": ["settle", "finish", "relieve"], "components": ["氵", "斉"],
+      "mnemonic": "Water (氵) evenly (斉) poured SETTLES the dust. Once it's settled, it's FINISHED (すむ).",
+      "examples": [{ "ja": "宿題が済みました。", "furigana": "しゅくだいがすみました。", "en": "The homework is done." }] },
+    { "id": "n3-k-03", "level": "N3", "type": "kanji", "item": "政", "reading": "せい、まつりごと", "meanings": ["politics", "government"], "components": ["正", "攵"],
+      "mnemonic": "Doing what's correct (正) by tapping with a stick (攵): the heavy hand of GOVERNMENT. 'Say!' (せい) – the leader speaks.",
+      "examples": [{ "ja": "政府が発表しました。", "furigana": "せいふがはっぴょうしました。", "en": "The government announced it." }] },
+    { "id": "n3-k-04", "level": "N3", "type": "kanji", "item": "治", "reading": "じ、ち、おさ、なお", "meanings": ["rule", "cure", "heal"], "components": ["氵", "台"],
+      "mnemonic": "Water (氵) on a platform (台) – a ruler controls floods to RULE; a doctor with water CURES.",
+      "examples": [{ "ja": "病気が治りました。", "furigana": "びょうきがなおりました。", "en": "The illness was cured." }] },
+
+    { "id": "n3-v-01", "level": "N3", "type": "vocabulary", "item": "経済", "reading": "けいざい", "meanings": ["economy", "economics"], "components": ["経", "済"],
+      "mnemonic": "経 (pass through) + 済 (settle): money passes through hands and gets settled – the ECONOMY. 'Kay-zai'.",
+      "examples": [{ "ja": "経済が成長しています。", "furigana": "けいざいがせいちょうしています。", "en": "The economy is growing." }] },
+    { "id": "n3-v-02", "level": "N3", "type": "vocabulary", "item": "政治", "reading": "せいじ", "meanings": ["politics", "government"], "components": ["政", "治"],
+      "mnemonic": "政 (government) + 治 (rule) = POLITICS. 'Say-G' – politicians always have something to say.",
+      "examples": [{ "ja": "政治に興味があります。", "furigana": "せいじにきょうみがあります。", "en": "I'm interested in politics." }] },
+    { "id": "n3-v-03", "level": "N3", "type": "vocabulary", "item": "経験", "reading": "けいけん", "meanings": ["experience"], "components": ["経", "験"],
+      "mnemonic": "経 (pass through) + 験 (test): things you've passed through and tested = EXPERIENCE. 'Kay-ken' – Ken has lots of it.",
+      "examples": [{ "ja": "いい経験になりました。", "furigana": "いいけいけんになりました。", "en": "It was a good experience." }] },
+    { "id": "n3-v-04", "level": "N3", "type": "vocabulary", "item": "習慣", "reading": "しゅうかん", "meanings": ["habit", "custom"], "components": ["習", "慣"],
+      "mnemonic": "習 (learn) + 慣 (get used to) = HABIT. 'Shoo, can!' – you shoo away a can again and again until it's a HABIT.",
+      "examples": [{ "ja": "早起きの習慣があります。", "furigana": "はやおきのしゅうかんがあります。", "en": "I have a habit of getting up early." }] },
+
+    { "id": "n2-k-01", "level": "N2", "type": "kanji", "item": "状", "reading": "じょう", "meanings": ["condition", "state", "letter"], "components": ["爿", "犬"],
+      "mnemonic": "A dog (犬) next to a bed-like board (爿): you check on the dog's CONDITION. 'Joe' (じょう) looks fine.",
+      "examples": [{ "ja": "状態がいいです。", "furigana": "じょうたいがいいです。", "en": "The condition is good." }] },
+    { "id": "n2-k-02", "level": "N2", "type": "kanji", "item": "況", "reading": "きょう", "meanings": ["situation", "condition"], "components": ["氵", "兄"],
+      "mnemonic": "Your big brother (兄) beside the water (氵) reports on the SITUATION. 'Kyo' (きょう) – today's situation.",
+      "examples": [{ "ja": "状況を説明します。", "furigana": "じょうきょうをせつめいします。", "en": "I'll explain the situation." }] },
+    { "id": "n2-k-03", "level": "N2", "type": "kanji", "item": "義", "reading": "ぎ", "meanings": ["righteousness", "meaning", "justice"], "components": ["羊", "我"],
+      "mnemonic": "A sheep (羊) offered up by 'me' (我) as a righteous sacrifice – JUSTICE. 'Ghee' (ぎ) is a pure, righteous butter.",
+      "examples": [{ "ja": "正義のために戦います。", "furigana": "せいぎのためにたたかいます。", "en": "I fight for justice." }] },
+    { "id": "n2-k-04", "level": "N2", "type": "kanji", "item": "承", "reading": "しょう、うけたまわ", "meanings": ["consent", "acknowledge", "receive"], "components": ["了", "手", "水"],
+      "mnemonic": "Hands (手) cradle something and say 'Shoh!' (しょう) – you ACKNOWLEDGE and receive a message.",
+      "examples": [{ "ja": "承認をお願いします。", "furigana": "しょうにんをおねがいします。", "en": "Please approve it." }] },
+
+    { "id": "n2-v-01", "level": "N2", "type": "vocabulary", "item": "状況", "reading": "じょうきょう", "meanings": ["situation", "circumstances"], "components": ["状", "況"],
+      "mnemonic": "状 (condition) + 況 (situation) – a double dose of 'how things stand'. 'Joe, Kyo?' – 'Joe, what's the situation, Kyo?'",
+      "examples": [{ "ja": "現在の状況は厳しいです。", "furigana": "げんざいのじょうきょうはきびしいです。", "en": "The current situation is severe." }] },
+    { "id": "n2-v-02", "level": "N2", "type": "vocabulary", "item": "意義", "reading": "いぎ", "meanings": ["significance", "meaning", "importance"], "components": ["意", "義"],
+      "mnemonic": "意 (intention) + 義 (justice): the SIGNIFICANCE of an act is the justice behind it. 'Ee-ghee' – 'Eek, ghee is significant!'",
+      "examples": [{ "ja": "この仕事には意義があります。", "furigana": "このしごとにはいぎがあります。", "en": "This work has significance." }] },
+    { "id": "n2-v-03", "level": "N2", "type": "vocabulary", "item": "承知", "reading": "しょうち", "meanings": ["acknowledgement", "consent", "understood"], "components": ["承", "知"],
+      "mnemonic": "承 (receive) + 知 (know): you received it and know it – 'Understood!' Say 'Show, chee!' as you nod.",
+      "examples": [{ "ja": "承知しました。", "furigana": "しょうちしました。", "en": "Understood." }] },
+    { "id": "n2-v-04", "level": "N2", "type": "vocabulary", "item": "改善", "reading": "かいぜん", "meanings": ["improvement", "betterment"], "components": ["改", "善"],
+      "mnemonic": "改 (reform) + 善 (good) = making things good by reforming – IMPROVEMENT. 'Kai-zen': Toyota's famous philosophy!",
+      "examples": [{ "ja": "サービスを改善します。", "furigana": "さーびすをかいぜんします。", "en": "We will improve the service." }] },
+
+    { "id": "n1-k-01", "level": "N1", "type": "kanji", "item": "憂", "reading": "ゆう、うれ", "meanings": ["melancholy", "grief", "worry"], "components": ["頁", "心", "夂"],
+      "mnemonic": "A head (頁) heavy with heart (心) trudging slowly (夂): MELANCHOLY. 'You!' (ゆう) – you are the cause of my worry.",
+      "examples": [{ "ja": "将来を憂える。", "furigana": "しょうらいをうれえる。", "en": "I worry about the future." }] },
+    { "id": "n1-k-02", "level": "N1", "type": "kanji", "item": "曖", "reading": "あい", "meanings": ["obscure", "dim"], "components": ["日", "愛"],
+      "mnemonic": "The sun (日) behind love (愛) – love is blurry, OBSCURE. 'Eye' (あい) can't see clearly.",
+      "examples": [{ "ja": "曖昧な返事。", "furigana": "あいまいなへんじ。", "en": "A vague reply." }] },
+    { "id": "n1-k-03", "level": "N1", "type": "kanji", "item": "昧", "reading": "まい", "meanings": ["dark", "dim", "stupid"], "components": ["日", "未"],
+      "mnemonic": "The sun (日) hasn't yet (未) risen – it's DARK. 'My' (まい) eyes can't see anything.",
+      "examples": [{ "ja": "三昧の日々。", "furigana": "ざんまいのひび。", "en": "Days of indulgence." }] },
+    { "id": "n1-k-04", "level": "N1", "type": "kanji", "item": "惰", "reading": "だ", "meanings": ["lazy", "idle"], "components": ["忄", "隋"],
+      "mnemonic": "A heart (忄) that falls (隋) away from effort: IDLE. 'Da!' – 'Da, I don't want to work.'",
+      "examples": [{ "ja": "惰眠をむさぼる。", "furigana": "だみんをむさぼる。", "en": "To laze around sleeping." }] },
+
+    { "id": "n1-v-01", "level": "N1", "type": "vocabulary", "item": "曖昧", "reading": "あいまい", "meanings": ["ambiguous", "vague", "unclear"], "components": ["曖", "昧"],
+      "mnemonic": "曖 (obscure) + 昧 (dim) – doubly dim: AMBIGUOUS. 'Eye, my eye!' – you can't see clearly.",
+      "examples": [{ "ja": "曖昧な答えは困ります。", "furigana": "あいまいなこたえはこまります。", "en": "A vague answer is a problem." }] },
+    { "id": "n1-v-02", "level": "N1", "type": "vocabulary", "item": "憂鬱", "reading": "ゆううつ", "meanings": ["melancholy", "depression", "gloom"], "components": ["憂", "鬱"],
+      "mnemonic": "憂 (grief) + 鬱 (gloom, a dense thicket of strokes): the heavy feeling of MELANCHOLY. 'You, ooh, tsu…' – a sigh.",
+      "examples": [{ "ja": "月曜日は憂鬱です。", "furigana": "げつようびはゆううつです。", "en": "Mondays are gloomy." }] },
+    { "id": "n1-v-03", "level": "N1", "type": "vocabulary", "item": "怠惰", "reading": "たいだ", "meanings": ["laziness", "idleness", "sloth"], "components": ["怠", "惰"],
+      "mnemonic": "怠 (neglect) + 惰 (idle) – 'Tie, da!' – tied to the couch, totally idle: LAZINESS.",
+      "examples": [{ "ja": "怠惰な生活を送る。", "furigana": "たいだなせいかつをおくる。", "en": "To lead an idle life." }] },
+    { "id": "n1-v-04", "level": "N1", "type": "vocabulary", "item": "把握", "reading": "はあく", "meanings": ["grasp", "understanding", "to grasp"], "components": ["把", "握"],
+      "mnemonic": "Both kanji have a hand (扌) – you literally GRASP something with your hand. 'Ha, ah, ku!' – the 'aha!' moment.",
+      "examples": [{ "ja": "状況を把握する。", "furigana": "じょうきょうをはあくする。", "en": "To grasp the situation." }] }
+  ],
+  "grammar": [
+    { "id": "n5-g-01", "level": "N5", "pattern": "〜てもいい", "meaning": "May I ~ / It's okay to ~ (permission)",
+      "formation": "Verb て-form + もいい (+ ですか for a question)",
+      "notes": "Ask permission with 〜てもいいですか and grant it with 〜てもいいです. Refuse with 〜てはいけません.",
+      "reviews": [
+        { "sentenceJa": "この辞書を＿＿＿＿＿ですか。", "blankIndex": "使う (つかう) → て-form + もいい", "correctKana": "つかってもいい|使ってもいい", "translationEn": "May I use this dictionary?" },
+        { "sentenceJa": "ここで写真を＿＿＿＿＿ですか。", "blankIndex": "撮る (とる) → て-form + もいい", "correctKana": "とってもいい|撮ってもいい", "translationEn": "May I take a photo here?" }
+      ] },
+    { "id": "n5-g-02", "level": "N5", "pattern": "〜ています", "meaning": "Is doing ~ (ongoing action / state)",
+      "formation": "Verb て-form + います",
+      "notes": "Describes an action in progress or a continuing state, such as where someone lives.",
+      "reviews": [
+        { "sentenceJa": "彼は今、本を＿＿＿＿＿。", "blankIndex": "読む (よむ) → て-form + います", "correctKana": "よんでいます|読んでいます", "translationEn": "He is reading a book now." },
+        { "sentenceJa": "私は東京に＿＿＿＿＿。", "blankIndex": "住む (すむ) → て-form + います", "correctKana": "すんでいます|住んでいます", "translationEn": "I live in Tokyo." }
+      ] },
+    { "id": "n5-g-03", "level": "N5", "pattern": "〜たい", "meaning": "Want to ~",
+      "formation": "Verb ます-stem + たい",
+      "notes": "Expresses the speaker's own desire. It conjugates like an い-adjective: たくない, たかった.",
+      "reviews": [
+        { "sentenceJa": "私は日本へ＿＿＿＿＿です。", "blankIndex": "行く (いく) → ます-stem + たい", "correctKana": "いきたい|行きたい", "translationEn": "I want to go to Japan." },
+        { "sentenceJa": "冷たい水を＿＿＿＿＿です。", "blankIndex": "飲む (のむ) → ます-stem + たい", "correctKana": "のみたい|飲みたい", "translationEn": "I want to drink cold water." }
+      ] },
+    { "id": "n5-g-04", "level": "N5", "pattern": "〜なければなりません", "meaning": "Must ~ / Have to ~",
+      "formation": "Verb ない-form (drop い) + ければなりません",
+      "notes": "Expresses obligation. Casual forms: 〜なきゃ, 〜なければならない.",
+      "reviews": [
+        { "sentenceJa": "明日は早く＿＿＿＿＿。", "blankIndex": "起きる (おきる) → ない-form + ければなりません", "correctKana": "おきなければなりません|起きなければなりません", "translationEn": "I have to get up early tomorrow." }
+      ] },
+
+    { "id": "n4-g-01", "level": "N4", "pattern": "〜ことができる", "meaning": "Can ~ / Be able to ~",
+      "formation": "Verb dictionary form + ことができる",
+      "notes": "More formal than the potential form. Can also follow a noun-like action phrase.",
+      "reviews": [
+        { "sentenceJa": "私は日本語を話す＿＿＿＿＿。", "blankIndex": "dictionary form + ___ (polite)", "correctKana": "ことができます", "translationEn": "I can speak Japanese." }
+      ] },
+    { "id": "n4-g-02", "level": "N4", "pattern": "〜ようにする", "meaning": "Try to ~ / Make an effort to ~",
+      "formation": "Verb dictionary / ない-form + ようにする",
+      "notes": "Describes a continuous effort to do (or not do) something.",
+      "reviews": [
+        { "sentenceJa": "毎日野菜を食べる＿＿＿＿＿。", "blankIndex": "ようにする → ています", "correctKana": "ようにしています", "translationEn": "I try to eat vegetables every day." }
+      ] },
+    { "id": "n4-g-03", "level": "N4", "pattern": "〜そうだ (appearance)", "meaning": "Looks like ~ / Seems ~",
+      "formation": "Verb ます-stem / い-adj (drop い) / な-adj + そうだ",
+      "notes": "Visual judgement based on appearance. Different from hearsay そうだ (I heard that).",
+      "reviews": [
+        { "sentenceJa": "この料理はおいしい＿＿＿＿＿。", "blankIndex": "い-adjective → drop い + そう + polite copula", "correctKana": "そうです", "translationEn": "This dish looks delicious." }
+      ] },
+
+    { "id": "n3-g-01", "level": "N3", "pattern": "〜てばかりいる", "meaning": "Do nothing but ~ / Keep on ~ing",
+      "formation": "Verb て-form + ばかりいる",
+      "notes": "Often carries a negative nuance of criticism.",
+      "reviews": [
+        { "sentenceJa": "彼はゲームを＿＿＿＿＿。", "blankIndex": "遊ぶ (あそぶ) → て-form + ばかりいる", "correctKana": "あそんでばかりいる|遊んでばかりいる", "translationEn": "He does nothing but play games." }
+      ] },
+    { "id": "n3-g-02", "level": "N3", "pattern": "〜わけにはいかない", "meaning": "Can't afford to ~ / Cannot (for social or moral reasons)",
+      "formation": "Verb dictionary form + わけにはいかない",
+      "notes": "Expresses that circumstances make it impossible to do something. The negative-verb version means 'must do'.",
+      "reviews": [
+        { "sentenceJa": "明日試験があるから、今夜は遊ぶ＿＿＿＿＿。", "blankIndex": "わけ + には + いかない", "correctKana": "わけにはいかない", "translationEn": "I can't play tonight because I have an exam tomorrow." }
+      ] },
+
+    { "id": "n2-g-01", "level": "N2", "pattern": "〜にもかかわらず", "meaning": "Despite ~ / In spite of ~",
+      "formation": "Noun / Verb plain form + にもかかわらず",
+      "notes": "Formal. な-adjective and noun may take である before it.",
+      "reviews": [
+        { "sentenceJa": "雨＿＿＿＿＿、試合は行われた。", "blankIndex": "despite + 雨", "correctKana": "にもかかわらず", "translationEn": "Despite the rain, the match was held." }
+      ] },
+    { "id": "n2-g-02", "level": "N2", "pattern": "〜ざるを得ない", "meaning": "Have no choice but to ~",
+      "formation": "Verb ない-stem + ざるを得ない (する → せざるを得ない)",
+      "notes": "Literary and formal. Expresses reluctant necessity.",
+      "reviews": [
+        { "sentenceJa": "上司の命令なので、行か＿＿＿＿＿。", "blankIndex": "ない-stem + ざるを得ない", "correctKana": "ざるをえない|ざるを得ない", "translationEn": "Since it's the boss's order, I have no choice but to go." }
+      ] },
+
+    { "id": "n1-g-01", "level": "N1", "pattern": "〜ずにはいられない", "meaning": "Can't help but ~",
+      "formation": "Verb ない-stem + ずにはいられない (する → せずにはいられない)",
+      "notes": "Spontaneous, emotion-driven action that the speaker cannot resist.",
+      "reviews": [
+        { "sentenceJa": "その映画を見て、泣か＿＿＿＿＿。", "blankIndex": "ない-stem + ずにはいられなかった", "correctKana": "ずにはいられなかった", "translationEn": "Watching that movie, I couldn't help crying." }
+      ] },
+    { "id": "n1-g-02", "level": "N1", "pattern": "〜をものともせず", "meaning": "Undeterred by ~ / Defying ~",
+      "formation": "Noun + をものともせず(に)",
+      "notes": "Used to praise someone who pushes ahead in spite of obstacles.",
+      "reviews": [
+        { "sentenceJa": "彼は困難＿＿＿＿＿、前に進んだ。", "blankIndex": "noun + particle + ものともせず", "correctKana": "をものともせず|をものともせずに", "translationEn": "He pressed on, undeterred by the difficulties." }
+      ] }
+  ]
+}

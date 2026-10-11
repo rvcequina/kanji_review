@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-[#faf7fc] text-ink-900 antialiased;
+  background-image: radial-gradient(circle at 10% 0%, #ffe9f5 0, transparent 40%), radial-gradient(circle at 100% 10%, #efe6ff 0, transparent 35%);
+  background-attachment: fixed;
+}
+.btn { @apply inline-flex items-center justify-center gap-2 rounded-xl px-5 py-3 font-semibold transition active:scale-[.97] disabled:opacity-40 disabled:cursor-not-allowed; }
+.card { @apply rounded-2xl bg-white/90 shadow-sm ring-1 ring-ink-900/5; }
